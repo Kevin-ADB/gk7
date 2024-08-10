@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgk7_web=self.webpackChunkgk7_web||[]).push([[594],{5359:(l,e,r)=>{r.r(e),r.d(e,{AboutPage:()=>a});var t=r(4015),u=r(6540),i=r(5168),n=r(7484),a=(0,t.PA)((function(){var l=(0,i.RT)().t.l,e=(0,i.RW)().u;return u.createElement("div",null,u.createElement("div",null,l,u.createElement(n.N,{href:"mailto:".concat(e)},e)))}))}}]);
