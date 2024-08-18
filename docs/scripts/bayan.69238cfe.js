@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgk7_web=self.webpackChunkgk7_web||[]).push([[388],{241:(a,n,e)=>{e.r(n),e.d(n,{BayanPage:()=>r});var l=e(6540),r=function(){return l.createElement("div",null,"Bayan")}}}]);
