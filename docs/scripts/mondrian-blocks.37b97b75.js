@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgk7_web=self.webpackChunkgk7_web||[]).push([[42],{8703:(n,r,e)=>{e.r(r),e.d(r,{MondrianBlocksPage:()=>a});var l=e(6540),s=e(4845),a=function(){var n=(0,s.RT)().Z._;return l.createElement("div",null,n)}}}]);
